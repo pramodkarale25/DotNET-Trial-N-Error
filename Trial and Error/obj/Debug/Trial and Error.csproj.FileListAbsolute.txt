@@ -1,0 +1,7 @@
+C:\My work\Trial and Error\Trial and Error\bin\Debug\Trial and Error.exe.config
+C:\My work\Trial and Error\Trial and Error\bin\Debug\Trial and Error.exe
+C:\My work\Trial and Error\Trial and Error\bin\Debug\Trial and Error.pdb
+C:\My work\Trial and Error\Trial and Error\obj\Debug\Trial and Error.csproj.CoreCompileInputs.cache
+C:\My work\Trial and Error\Trial and Error\obj\Debug\Trial and Error.exe
+C:\My work\Trial and Error\Trial and Error\obj\Debug\Trial and Error.pdb
+C:\My work\Trial and Error\Trial and Error\obj\Debug\Trial and Error.csprojAssemblyReference.cache
