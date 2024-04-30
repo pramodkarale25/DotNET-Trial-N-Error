@@ -64,7 +64,6 @@
     <Compile Include="ReadOnly_Const.cs" />
     <Compile Include="Ref_Out.cs" />
     <Compile Include="SingletonDP.cs" />
-    <Compile Include="SQL.cs" />
     <Compile Include="structure.cs" />
     <Compile Include="Tuple.cs" />
     <Compile Include="TryCatch.cs" />
